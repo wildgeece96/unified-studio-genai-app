@@ -1,0 +1,37 @@
+{
+  "name": "Untitled App - nqeez",
+  "description": "This is the Untitled App - nqeez chat app",
+  "ragConfiguration": {
+    "ragNumberOfResults": 5
+  },
+  "appConfig": {
+    "examples": []
+  },
+  "modelConfig": {
+    "modelId": "6k5korvoqdfdwn:2",
+    "system": "You are a virtual assistant that answers user queries politely and clearly.",
+    "temperature": 0.5,
+    "topP": 0.5,
+    "maxTokens": 4096,
+    "topK": 200,
+    "anthropicVersion": "bedrock-2023-05-31"
+  },
+  "uiConfig": {
+    "chat": {
+      "placeholder": "Hi! I am your new chat assistant"
+    },
+    "prompt": {
+      "placeholder": "Enter prompt"
+    },
+    "profilePic": {
+      "placeholder": "placeholder"
+    },
+    "starterPrompts": [
+      "Rewrite the below email in a professional tone.",
+      "Develop a tic-tac-toe game in a single HTML file.",
+      "Tell me a joke about Artificial Intelligence."
+    ]
+  },
+  "files": [],
+  "lastUpdatedAtMillis": 1733884321992
+}
