@@ -1,6 +1,6 @@
 {
-  "name": "Untitled App - nqeez",
-  "description": "This is the Untitled App - nqeez chat app",
+  "name": "Sample App - nqeez",
+  "description": "This is the Sample App - nqeez chat app",
   "ragConfiguration": {
     "ragNumberOfResults": 5
   },
@@ -33,5 +33,5 @@
     ]
   },
   "files": [],
-  "lastUpdatedAtMillis": 1733884327158
+  "lastUpdatedAtMillis": 1733884339391
 }
